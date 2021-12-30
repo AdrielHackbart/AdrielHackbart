@@ -1,6 +1,6 @@
 ## Hello World! 
-I am Lucas Torchelsen Schmidt👋
-- 🌱 Ciência da computação - UFFS
+I am Adriel Rosso Hackbart 👋
+- 🌱 Análise e Desenvolvimento de Sistemas - Uninter
 <div align="center">
   <a href="https://github.com/AdrielHackbart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdrielHackbart&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
